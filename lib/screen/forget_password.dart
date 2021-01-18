@@ -3,8 +3,6 @@ import 'package:Hi_store/custom_widgets/custom_text_feld.dart';
 import 'package:Hi_store/custom_widgets/custom_button.dart';
 
 class ForgotPassword extends StatelessWidget {
-  static String id = 'forgot-password';
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
