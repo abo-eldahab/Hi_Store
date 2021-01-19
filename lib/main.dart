@@ -5,6 +5,7 @@ import 'package:Hi_store/screen/forget_password.dart';
 
 void main() {
   runApp(MyApp());
+  print(144141);
 }
 
 class MyApp extends StatelessWidget {
